@@ -1,3 +1,9 @@
+"""
+   By Usman GhulamNabi
+   usmanghulamnabi@gmail.com
+"""
+
+
 class Calculator():
 
     def _init_(self, num1, num2):
