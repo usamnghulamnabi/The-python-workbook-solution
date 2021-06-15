@@ -1,3 +1,1 @@
-# miniature-spork
-
-This repository is for programmming beginners who wants to have good examples of programs.
+This repository contains solutions to The python workbook by Ben Stephenson.
